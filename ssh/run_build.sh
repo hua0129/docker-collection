@@ -1,0 +1,1 @@
+docker build -t hua0129/centos-ssh-systemctl .
